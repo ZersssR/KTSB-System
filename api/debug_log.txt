@@ -1,0 +1,2 @@
+2025-12-07 02:01:46 - HIT: /ktsb/api/crew_sign_off_request.php
+2025-12-07 02:01:46 - COOKIES: {"PHPSESSID":"0pr5p9omiol6g44b101kp85kqm","PHPSESSID_tab_1765071996986_xeasd4yts":"fk9jf9pua6brlod07d60msf4g1","PHPSESSID_tab_1765072819882_4fjdlf0ky":"ma7pkhb7qijblv13pebe475vue","ktsb_tab_id":"tab_1765072853986_5e04qth5q"}
