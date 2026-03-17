@@ -111,6 +111,12 @@ Future Improvements
 -Implement responsive design for mobile access
 
 
+Screenshots
+
+![KTSB Dashboard](ktsb_hompepage.png)
+![BERTH_REQUEST Page](ktsb_berth_request.png)
+![APPROVAL Chart](ktsb_approval.png)
+
 
 Author
 
